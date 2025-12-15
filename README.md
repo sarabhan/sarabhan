@@ -23,11 +23,11 @@ I enjoy working on projects that start as experiments and grow into usable syste
   
 ##  Projects
 
-- **XamGuard** — CV-based exam proctoring using optical flow  
-- **Measure It!** — OCR + ML system for extracting product dimensions 
-- **Smart Waste Management System** — IoT + CV-based waste segregation  
-- **Cropify** — Crop recommendation model using RF + Logistic Regression  
-- **Galactic Heights** — Interactive C++ OpenGL graphics project
+- **XamGuard** - CV-based exam proctoring using optical flow  
+- **Measure It!** - OCR + ML system for extracting product dimensions 
+- **Smart Waste Management System** - IoT + CV-based waste segregation  
+- **Cropify** - Crop recommendation model using RF + Logistic Regression  
+- **Galactic Heights** - Interactive C++ OpenGL graphics project
 - **Denso** - An integrated pipeline using Blender and Llama3.1 to implement text-to-3D
 
 👉 Most projects are available on my GitHub profile.
