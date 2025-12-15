@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sarvika. I'm a Computer Science Engineer, <br>interested in building practical systems revolving around _Computer Vision, AI, and real-time computing_</p>
+My name is Sarvika. I'm a Computer Science Engineer, interested in building practical systems revolving around _Computer Vision, AI, and real-time computing_
 
 ###
 
