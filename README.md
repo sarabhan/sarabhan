@@ -19,7 +19,7 @@ I enjoy working on projects that start as experiments and grow into usable syste
 - **Edge AI:** NVIDIA Jetson, DeepStream, TensorRT, CUDA
 - **Systems & Infra:** Linux, Triton Inference Server
 - **Cloud & Data:** AWS, Azure, SQL
-- **3D Modelling**  Blender
+- **3D Modelling:**  Blender
   
 ##  Projects
 
@@ -27,7 +27,8 @@ I enjoy working on projects that start as experiments and grow into usable syste
 - **Measure It!** — OCR + ML system for extracting product dimensions 
 - **Smart Waste Management System** — IoT + CV-based waste segregation  
 - **Cropify** — Crop recommendation model using RF + Logistic Regression  
-- **Galactic Heights** — Interactive C++ OpenGL graphics project  
+- **Galactic Heights** — Interactive C++ OpenGL graphics project
+- **Denso** - An integrated pipeline using Blender and Llama3.1 to implement text-to-3D
 
 👉 Most projects are available on my GitHub profile.
 
