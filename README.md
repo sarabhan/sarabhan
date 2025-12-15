@@ -10,7 +10,36 @@
 
 ###
 
-<p align="left">I enjoy working on projects that start as experiments and grow into usable systems, especially in CV, Edge AI, Agentic AI and applied ML.<br><br>---<br><br>## Technical Interests 🛠️<br><br>- **Computer Vision:** OpenCV, Optical Flow, YOLO, EasyOCR<br>- **AI / Deep Learning:** PyTorch, TensorFlow, Agentic AI<br>- **Edge AI:** NVIDIA Jetson, DeepStream, TensorRT, CUDA<br>- **Systems & Infra:** Linux, Triton Inference Server<br>- **Cloud & Data:** AWS, Azure, SQL<br>- **3D Modelling**  Blender<br><br>---<br><br>##  Projects<br><br>- **XamGuard** — CV-based exam proctoring using optical flow  <br>- **Measure It!** — OCR + ML system for extracting product dimensions <br>- **Smart Waste Management System** — IoT + CV-based waste segregation  <br>- **Cropify** — Crop recommendation model using RF + Logistic Regression  <br>- **Galactic Heights** — Interactive C++ OpenGL graphics project  <br><br>👉 Most projects are available on my GitHub profile.<br><br>---<br><br>##  Open Source & Collaboration 🤝<br><br>I'm always open to:<br>- Feedback & technical critique<br>- Collaboration on projects<br>- Improving early-stage prototypes<br>- Research-oriented discussions<br><br>If something looks interesting, feel free to open an issue or start a discussion.<br><br>---<br><br>☕ Powered by Python, curiosity, and way too much coffee</p>
+I enjoy working on projects that start as experiments and grow into usable systems, especially in CV, Edge AI, Agentic AI and applied ML.
+
+## Technical Interests 🛠️
+
+- **Computer Vision:** OpenCV, Optical Flow, YOLO, EasyOCR
+- **AI / Deep Learning:** PyTorch, TensorFlow, Agentic AI
+- **Edge AI:** NVIDIA Jetson, DeepStream, TensorRT, CUDA
+- **Systems & Infra:** Linux, Triton Inference Server
+- **Cloud & Data:** AWS, Azure, SQL
+- **3D Modelling**  Blender
+  
+##  Projects
+
+- **XamGuard** — CV-based exam proctoring using optical flow  
+- **Measure It!** — OCR + ML system for extracting product dimensions 
+- **Smart Waste Management System** — IoT + CV-based waste segregation  
+- **Cropify** — Crop recommendation model using RF + Logistic Regression  
+- **Galactic Heights** — Interactive C++ OpenGL graphics project  
+
+👉 Most projects are available on my GitHub profile.
+
+##  Open Source & Collaboration 🤝
+
+I'm always open to:
+- Feedback & technical critique
+- Collaboration on projects
+- Improving early-stage prototypes
+- Research-oriented discussions
+
+If something looks interesting, feel free to open an issue or start a discussion.
 
 ###
 
