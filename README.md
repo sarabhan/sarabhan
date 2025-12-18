@@ -2,7 +2,7 @@
 
 ###
 
-My name is Sarvika. I'm a Computer Science Engineer, interested in building practical systems revolving around _Computer Vision, AI, and real-time computing_
+My name is Sarvika. I'm a Computer Science Engineer, interested in building practical systems revolving around _Computer Vision, AI, NLP and real-time computing_
 
 ###
 
@@ -15,7 +15,7 @@ I enjoy working on projects that start as experiments and grow into usable syste
 ## Technical Interests 🛠️
 
 - **Computer Vision:** OpenCV, Optical Flow, YOLO, EasyOCR
-- **AI / Deep Learning:** PyTorch, TensorFlow, Agentic AI
+- **AI / Deep Learning:** PyTorch, TensorFlow, Agentic AI, NLP
 - **Edge AI:** NVIDIA Jetson, DeepStream, TensorRT, CUDA
 - **Systems & Infra:** Linux, Triton Inference Server
 - **Cloud & Data:** AWS, Azure, SQL
